@@ -1,2 +1,2 @@
 # LebahGanteng-CMS-BetaVersion
-A movie catalog single page application website inspired by IMDb, built using jQuery for the front end, PostgreSQL as the DBMS, wired with Ajax, Sequelize for the ORM, and Express as the backend web app framework. Designed for the CMS (Content Management System)/admin side.
+A web application designed to manage company employees, with a special feature to remind HR administrators about impending expiration dates of employee contracts. It's built using PostgreSQL as the DBMS, Express as the backend web app framework, JavaScript as the language, and Vue.js for the front end.
